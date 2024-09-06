@@ -4,7 +4,7 @@ Data explorer with a knack for uncovering insights using machine learning. Freel
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-labidi-916971223/) 
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?logo=Upwork&logoColor=white)](https://upwork.com/in/https://www.upwork.com/freelancers/~01886eb7ed35392466) 
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01886eb7ed35392466?mp_source=share) 
 
 
 # 💻 Tech Stack:
